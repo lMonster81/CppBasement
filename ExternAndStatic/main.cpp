@@ -1,12 +1,10 @@
 #include<iostream>
-#include<other.h>
 using namespace  std;
-
-extern int a0;
+extern int a;
 
 int main()
 {
-    cout << a0 << endl;
-    getchar();
+    cout << a << endl;
+    //getchar();
     return 0;
 }

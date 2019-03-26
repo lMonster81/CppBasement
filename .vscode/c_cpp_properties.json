@@ -9,7 +9,7 @@
                 "D:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\*",
                 "D:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32\\*",
                 "D:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++",
-                "D:\\MinGWlib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward\\*",
+                "D:\\MinGWlib\\gcc\\mingw32\\6.3.0\\include\\c+///////+\\backward\\*",
                 "D:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/tr1"
             ],
             "browse": {
